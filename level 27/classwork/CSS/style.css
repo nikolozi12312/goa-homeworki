@@ -1,0 +1,9 @@
+p b{
+    color: red;
+    background-color: aqua;
+}
+
+
+div p{
+    color: red;
+}
